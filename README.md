@@ -43,7 +43,7 @@ A Python script to track Instagram followers and detect unfollowers using Seleni
         For C: Shows unfollowers and asks if you want to update the file (y/n).
 
 ## Tutorial Video
-  Watch the step-by-step guide: Insert Video Link Here (#) (Upload your video to YouTube and replace this link.)
+Watch the step-by-step guide: [Instagram Unfollower Checker Tutorial](https://youtu.be/x1xVe6Sv9IU)
 
 ## mportant Notes:
    Firefox must be closed before starting the script.
