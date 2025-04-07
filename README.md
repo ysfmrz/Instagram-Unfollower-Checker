@@ -13,26 +13,26 @@ A Python script to track Instagram followers and detect unfollowers using Seleni
   ```bash
   pip install selenium
 
-    Geckodriver: Download from here and add to PATH.
-    Firefox Profile: Log in to Instagram manually in Firefox once to save your credentials.
+ Geckodriver: Download from here and add to PATH.
+ Firefox Profile: Log in to Instagram manually in Firefox once to save your credentials.
 
-Setup
-
+Setup:
     Clone the Repository:
+    
     bash
 
     git clone https://github.com/ysfmrz/Instagram-Unfollower-Checker.git
     cd Instagram-Unfollower-Checker
 
-Usage
-
+Usage:
     Before running the script, open Firefox, go to your Instagram profile, log in manually, and then close Firefox. This ensures the script uses your logged-in session.
     Run the script:
+    
     bash
 
     python instagram_unfollower_checker.py
 
-    Choose an option:
+   Choose an option:
         F: Create a new follower list.
         C: Check for unfollowers.
     Firefox opens and loads Instagram:
@@ -44,8 +44,8 @@ Usage
 
 Tutorial Video
 Watch the step-by-step guide: Insert Video Link Here (#) (Upload your video to YouTube and replace this link.)
-Important Notes
 
+Important Notes:
     Firefox must be closed before starting the script.
     Log in to Instagram manually in Firefox beforehand for smooth operation.
     Scroll to the last follower to capture all usernames.
