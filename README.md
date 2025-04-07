@@ -20,7 +20,8 @@ A Python script to track Instagram followers and detect unfollowers using Seleni
 
   Clone the Repository:
     
-    bash
+   bash
+   
     git clone https://github.com/ysfmrz/Instagram-Unfollower-Checker.git
     cd Instagram-Unfollower-Checker
 
@@ -29,7 +30,8 @@ A Python script to track Instagram followers and detect unfollowers using Seleni
    Before running the script, open Firefox, go to your Instagram profile, log in manually, and then close Firefox. This ensures the script uses your logged-in session.
    Run the script:
     
-    bash
+   bash
+    
     python instagram_unfollower_checker.py
 
    Choose an option:
